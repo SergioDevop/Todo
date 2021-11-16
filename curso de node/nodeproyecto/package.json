@@ -1,0 +1,14 @@
+{
+  "name": "nodeproyecto",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sergio gaaa",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
